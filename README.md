@@ -24,6 +24,6 @@ A simple and elegant Weather App built with Kotlin for Android. This app fetches
 - **Coroutines** for background tasks
 - **Material Design Components**
 
-https://github.com/Tejpalbhardwaj/RealTimeWeatherApp/blob/main/Screenshot%20(10).png?raw=true
-![Home]()
+
+![image alt](https://github.com/Tejpalbhardwaj/RealTimeWeatherApp/blob/main/Screenshot%20(10).png?raw=true)
 
